@@ -149,7 +149,7 @@ html[dir=rtl] .q3	{text-indent:-1em; margin-right:3em}
 .p .chapter, .q .chapter,
 .q1 .chapter .q2 .chapter,
 .q3 .chapter, .poetry .chapter	{margin-right:1em}
-.verse	{white-space:nowrap;vertical-align:super;font-size:.8em;font-weight:bold;line-height:0;color:blue}
+.verse	{white-space:nowrap;vertical-align:super;font-size:.8em;font-weight:bold;line-height:0;color:rgb(0,100,200)}
 .footnote,
 .crossRefNote	{display: block; margin-top:.5em;margin-left:0em}
 .notebackref	{margin: 1em}
