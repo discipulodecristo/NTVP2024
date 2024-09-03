@@ -1,5 +1,5 @@
 *	{margin:0;padding:0}
-html,body	{height:100%;font-size:1.4em;line-height:1.4em;color:#e3e3e3;background-color:#1a1b1c}
+html,body	{height:100%;font-size:1.4em;line-height:1.4em;color:#f1f1f1;background-color:#1a1b1c}
 /* Note: if the following 2 .woff files are in another location, please edit the two url() specifiers, below. */
 @font-face {
     font-family: 'gentiumw';
